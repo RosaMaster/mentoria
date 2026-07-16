@@ -1,6 +1,9 @@
 # Solid
 
-O *SOLID* é a base fundamental para qualquer arquiteto ou desenvolvedor que almeja construir sistemas de alta qualidade. Não é apenas um conjunto de regras, mas uma filosofia de design que visa tornar o código fácil de entender, manter e estender.
+O *SOLID* é a base fundamental para qualquer arquiteto ou desenvolvedor que almeja construir sistemas de alta qualidade.
+
+Não é apenas um conjunto de regras, mas uma filosofia de design que visa tornar o código fácil de entender, manter e estender.
+
 O nome SOLID é, na verdade, um acrônimo. A palavra foi cunhada por Michael Feathers no início dos anos 2000, mas os princípios em si foram compilados e popularizados por Robert C. Martin (conhecido como "Uncle Bob") em seu livro Agile Software Development, Principles, Patterns, and Practices.
 
 | __Letra__ | __Sigla__ | __Princípio (em inglês)__       | __Tradução__                         |
