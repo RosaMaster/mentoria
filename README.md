@@ -15,7 +15,7 @@ Estudos e revisando conhecimentos.
 - [CQRS](./arquitetura/cqrs.md)
 - [Design Patterns](./arquitetura/design-patterns.md)
 - [Domain Drive Design - DDD](./arquitetura/domain-drive-design-ddd.md)
-- [Event Driven](./arquitetura/event-driven.md)
+- [Event-Driven Architecture (EDA)](./arquitetura/event-driven.md)
 - [Event Sourcing](./arquitetura/event-sourcing.md)
 - [Rest Api](./arquitetura/rest-api.md)
 - [Solid](./arquitetura/solid.md)
